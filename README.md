@@ -9,4 +9,6 @@
       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/122949013/?autostart=false" frameborder="0" allowfullscreen></iframe>
         <br>
     <p>This is another thing I created.</p>
-    
+    <iframe src="https://trinket.io/embed/python3/5f6fd10910" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  </body>
+</html>
